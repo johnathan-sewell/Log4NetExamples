@@ -1,0 +1,8 @@
+D:\Log4NetExamples\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Log4NetExamples\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Log4NetExamples\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Log4NetExamples\ConsoleApplication1\ConsoleApplication1\bin\Debug\log4net.dll
+D:\Log4NetExamples\ConsoleApplication1\ConsoleApplication1\bin\Debug\log4net.xml
+D:\Log4NetExamples\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Log4NetExamples\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+D:\Log4NetExamples\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb

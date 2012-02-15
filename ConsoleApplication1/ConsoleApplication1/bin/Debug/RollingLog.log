@@ -1,0 +1,9 @@
+15 Feb 2012 12:43:41 (INFO) Log4NetExamples.ConsoleApplication1.Looper Running the loop
+15 Feb 2012 12:43:41 (INFO) Log4NetExamples.ConsoleApplication1.Looper Loop body 0
+15 Feb 2012 12:43:41 (INFO) Log4NetExamples.ConsoleApplication1.Looper Loop body 1
+15 Feb 2012 12:43:41 (INFO) Log4NetExamples.ConsoleApplication1.Looper Loop body 2
+15 Feb 2012 12:43:41 (INFO) Log4NetExamples.ConsoleApplication1.Looper Loop body 3
+15 Feb 2012 12:43:41 (INFO) Log4NetExamples.ConsoleApplication1.Looper Loop body 4
+15 Feb 2012 12:43:41 (INFO) Log4NetExamples.ConsoleApplication1.Looper Loop body 5
+15 Feb 2012 12:43:41 (INFO) Log4NetExamples.ConsoleApplication1.Looper Loop body 6
+15 Feb 2012 12:43:41 (ERROR) Log4NetExamples.ConsoleApplication1.Program I don't like sevens
